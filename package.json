@@ -1,7 +1,7 @@
 {
-  "name": "untitled",
+  "name": "chat-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/aaditkamat/chat-app.git",
+  "author": "Aadit Rahul Kamat <aadit.k12@gmail.com>",
+  "license": "MIT"
 }
